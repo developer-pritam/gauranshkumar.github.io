@@ -47,6 +47,11 @@ p.lead {
   font-weight: 400;
 }
 
+.red {
+/*   font-size: 50px; */
+  color: 	#8B0000;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
